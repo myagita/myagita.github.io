@@ -2,10 +2,10 @@
 
 | 時期             | 学歴               |
 |:----------------|:------------------|
-| 2011(H23)-03-31 | 渋谷教育学園幕張高等学校　卒業                            |
-| 2011(H23)-04-01 | 東京大学教養学部前期課程理科一類　入学                      |
-| 2015(H27)-03-31 | 東京大学理学部情報科学科　卒業                            |
-| 2017(H29)-03-31 | 東京大学大学院情報理工学系研究科コンピュータ科学専攻修士課程　修了 |
+| 2011(H23)-03 | 渋谷教育学園幕張高等学校　卒業                            |
+| 2011(H23)-04 | 東京大学教養学部前期課程理科一類　入学                      |
+| 2015(H27)-03 | 東京大学理学部情報科学科　卒業                            |
+| 2017(H29)-03 | 東京大学大学院情報理工学系研究科コンピュータ科学専攻修士課程　修了 |
 
 ## 学位
 
@@ -18,35 +18,30 @@
 
 | 時期             | 職歴               |
 |:----------------|:------------------|
-| 2015(H27)-06-01～2017(H29)-02-28 | 情報・システム研究機構 リサーチ・アシスタント |
+| 2015(H27)-06～2017(H29)-02 | 情報・システム研究機構 リサーチ・アシスタント |
 | 2017(H29)-09〜 | 株式会社Legalscape 代表取締役社長・最高経営責任者 |
 
 ## 実績、業績、その他（Legalscape社の主要な成果を含む）
 
 - 2017-03-31（個人）：修士論文「Similarity Analysis on Legal Court Case Documents」
 - 2017-07-28（個人）：独立行政法人 情報処理推進機構 未踏アドバンスト事業 採択
-	- テーマ：自然言語3処理と視覚表現を用いた革新的なリーガル業務支援サービス
-	- [未踏アドバンスト事業：2017年度採択プロジェクト概要（八木田PJ） \| デジタル人材の育成 \| IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/jinzai/mitou/advanced/2017/gaiyou_m-1.html)
+	- [テーマ：自然言語3処理と視覚表現を用いた革新的なリーガル業務支援サービス](https://www.ipa.go.jp/jinzai/mitou/advanced/2017/gaiyou_m-1.html)
 - 2018-01-31（個人）：NHK「先読み！夕方ニュース」に出演し、「司法の情報公開は③ ～判決情報の活用」と題して解説
 - 2019-01-25（会社）：法律文章の構造化に関する技術について、特許を取得（特許第6469919号）
-- 2020-03-27（会社）：日弁連法務研究財団 民事判決のオープンデータ化検討PTへ参画 [民事判決のオープンデータ化検討PT \| 公益財団法人 日弁連法務研究財団](https://www.jlf.or.jp/work/hanketsuopendata-pt/)
+- 2020-03-27（会社）：[日弁連法務研究財団 民事判決のオープンデータ化検討PTへ参画](https://www.jlf.or.jp/work/hanketsuopendata-pt/)
 - 2020-11-18（会社）：法律文章の構造化に関する技術について、特許を取得（特許第6796337号）
-- 2021-01-01（会社）：NBL No.1187, 1188号（商事法務）新春座談会「リーガルテックとこれからの法務組織・企業・社会」 [株式会社 商事法務 \| NBL　1187(2021.2.1)号](https://www.shojihomu.co.jp/publishing/subscription_detail?id=45&category=2&sub_category=7&publish_id=45&cd=801187)
-- 2022-02-17（個人）：デジタル庁・デジタル臨時行政調査会作業部会 法制事務のデジタル化検討チームに構成員として参加 [デジタル臨時行政調査会作業部会 法制事務のデジタル化検討チーム（廃止）｜デジタル庁](https://www.digital.go.jp/councils/administrative-research-wg-legal-practice-team)
-- 2022-03-30（会社）：民事判決データベース化事業の在り方に関するWG第3回にて実証実験の結果を報告 [日弁連法務研究財団](https://www.jlf.or.jp/wp-content/uploads/2022/06/jigyouwg_siryou20220330.pdf)
+- 2021-01-01（会社）：[NBL No.1187, 1188号（商事法務）新春座談会「リーガルテックとこれからの法務組織・企業・社会」](https://www.shojihomu.co.jp/publishing/subscription_detail?id=45&category=2&sub_category=7&publish_id=45&cd=801187)
+- 2022-02-17（個人）：[デジタル庁・デジタル臨時行政調査会作業部会 法制事務のデジタル化検討チームに構成員として参加](https://www.digital.go.jp/councils/administrative-research-wg-legal-practice-team)
+- 2022-03-30（会社）：[民事判決データベース化事業の在り方に関するWG第3回にて実証実験の結果を報告](https://www.jlf.or.jp/wp-content/uploads/2022/06/jigyouwg_siryou20220330.pdf)
 - 2022-07-25（個人）：鹿児島大学司法政策教育研究センター「法の世界のDXを考える 法情報実務セミナー2022」に登壇
-- 2022-09-25（個人）：NBL No.1226号（商事法務）座談会「法制事務のデジタル化の先にある社会、リーガルテック実務の将来像」に登壇 [株式会社 商事法務 \| NBL　1226(2022.9.15)号](https://www.shojihomu.co.jp/publishing/subscription_detail?id=75&category=2&sub_category=7&publish_id=75&cd=801226)
+- 2022-09-25（個人）：[NBL No.1226号（商事法務）座談会「法制事務のデジタル化の先にある社会、リーガルテック実務の将来像」に登壇](https://www.shojihomu.co.jp/publishing/subscription_detail?id=75&category=2&sub_category=7&publish_id=75&cd=801226)
 - 2023-01-01（個人）：『情報ネットワークの法律実務』（第一法規）論考「民事判決のオープンデータ化へ向けた判決文のAIによる自動仮名化について」
-- 2023-06-12（会社）：Legalscape、大規模言語モデルを活用した次世代型リーガルリサーチAIを開発——森・濱田松本法律事務所との協働により高い精度を達成し、今後の実用化を目指す　信頼のおける法律文献に依拠して回答させるGPT-4ベースのシステムを構築。森・濱田松本法律事務所と協働し司法試験短答式合格正答率を上回る精度を達成 [Legalscape、大規模言語モデルを活用した次世代型リーガルリサーチAIを開発——森・濱田松本法律事務所との協働により高い精度を達成し、今後の実用化を目指す (2023-06-12) \| 株式会社Legalscape \| リーガルスケープ](https://www.legalscape.co.jp/press/2023-06-12/)
-- 2023-09-22（個人）：九州大学International Programs in Lawの招待で訪日中のタイ王国の裁判官らに「Digitalising Court Documents in Japan」と題して講演
-- 2023-10-27（個人）：デジタル庁・デジタル関係制度改革検討会 デジタル法制ワーキンググループに構成員として参加 [デジタル関係制度改革検討会 デジタル法制ワーキンググループ（廃止）｜デジタル庁](https://www.digital.go.jp/councils/digital-system-reform-wg-legal-practice)
-- 2023-11-10（個人）：デジタル庁「法令APIハッカソン」にて審査員 [法令APIハッカソン｜デジタル庁](https://www.digital.go.jp/policies/legal-practice/hackathon)
+- 2023-06-12（会社）：[Legalscape、大規模言語モデルを活用した次世代型リーガルリサーチAIを開発——森・濱田松本法律事務所との協働により高い精度を達成し、今後の実用化を目指す　信頼のおける法律文献に依拠して回答させるGPT-4ベースのシステムを構築。森・濱田松本法律事務所と協働し司法試験短答式合格正答率を上回る精度を達成](https://www.legalscape.co.jp/press/2023-06-12/)
+- 2023-09-22（個人）：九州大学 International Programs in Law の招待で訪日中のタイ王国の裁判官らに「Digitalising Court Documents in Japan」と題して講演
+- 2023-10-27（個人）：[デジタル庁・デジタル関係制度改革検討会 デジタル法制ワーキンググループに構成員として参加](https://www.digital.go.jp/councils/digital-system-reform-wg-legal-practice)
+- 2023-11-10（個人）：[デジタル庁「法令APIハッカソン」にて審査員](https://www.digital.go.jp/policies/legal-practice/hackathon)
 - 2024-09-05（個人）：九州大学International Programs in Lawの招待で訪日中のタイ王国の裁判官らに「Digitalising Court Documents in Japan」と題して講演
 - 2025-02-19（個人）：戦略法務ガバナンス研究会 第20回定例会で登壇（「コンピュータサイエンス出身者から見た、法律情報の世界」）
-- 2025-03-06（個人）：デジタル庁「法令」×「デジタル」ハッカソンにて審査員 [第三弾：「法令」×「デジタル」ハッカソンを開催しました](https://www.digital.go.jp/news/9fb5ef8e-c631-4974-96d9-0b145304c553)
-- 2025-03-11（個人）：経営法友会 月例会で登壇（AI技術の現在・これからと、近未来の法務のあり方）[経営法友会](https://www.keieihoyukai.jp/seminar/details/KHKS5123172)
-- 2025-05-23（会社）：リーガルスケープのAI、司法試験の選択式全科目で満点水準 [リーガルスケープのAI、司法試験の選択問題で満点水準 - 日本経済新聞](https://www.nikkei.com/article/DGXZQOTG162CT0W5A510C2000000/)
-
-
-
-
+- 2025-03-06（個人）：[デジタル庁「法令」×「デジタル」ハッカソンにて審査員](https://www.digital.go.jp/news/9fb5ef8e-c631-4974-96d9-0b145304c553)
+- 2025-03-11（個人）：[経営法友会 月例会で登壇（AI技術の現在・これからと、近未来の法務のあり方）](https://www.keieihoyukai.jp/seminar/details/KHKS5123172)
+- 2025-05-23（会社）：[リーガルスケープのAI、司法試験の選択式全科目で満点水準](https://www.nikkei.com/article/DGXZQOTG162CT0W5A510C2000000/)

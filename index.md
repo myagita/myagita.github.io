@@ -24,7 +24,7 @@ layout: default
 ## 登壇・メディア
 
 - 2025-07-08：[東京大学新聞にインタビュー記事掲載](https://www.todaishimbun.org/midokoro_20250708/)
-- 2025-03-21：[Legalscape：採用ピッチ | Startup Aquarium 2025](https://www.youtube.com/watch?v=J8DQTSo8PJs)
+- 2025-03-21：[Legalscape：採用ピッチ（Startup Aquarium 2025）](https://www.youtube.com/watch?v=J8DQTSo8PJs)
 - 2025-03-11：[経営法友会 月例会で登壇（AI技術の現在・これからと、近未来の法務のあり方）](https://www.keieihoyukai.jp/seminar/details/KHKS5123172)
 - 2025-02-19：戦略法務ガバナンス研究会 第20回定例会で登壇（「コンピュータサイエンス出身者から見た、法律情報の世界」）
 - 2024-12-02：[東大前HiRAKU GATEのインタビュー記事掲載](https://hiraku-gate.co.jp/tenants/%e6%a0%aa%e5%bc%8f%e4%bc%9a%e7%a4%belegalscape/)

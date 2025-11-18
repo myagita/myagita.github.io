@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## 連絡先
+
+[Legalscapeのお問合せフォームからお願いいたします](https://www.legalscape.jp/corp/contact)
+個人宛のご連絡については: miki.yagita@ (Gmail)
+
 ## 職歴
 
 | 時期             | 職歴               |
@@ -23,6 +28,7 @@ layout: default
 
 ## 登壇・メディア
 
+- 2025-10-31：東京大学法学部講義「デジタル社会と法」（宍戸常寿教授、羽深宏樹教授）にて、ゲスト講義
 - 2025-07-08：[東京大学新聞にインタビュー記事掲載](https://www.todaishimbun.org/midokoro_20250708/)
 - 2025-03-21：[Legalscape：採用ピッチ（Startup Aquarium 2025）](https://www.youtube.com/watch?v=J8DQTSo8PJs)
 - 2025-03-11：[経営法友会 月例会で登壇（AI技術の現在・これからと、近未来の法務のあり方）](https://www.keieihoyukai.jp/seminar/details/KHKS5123172)

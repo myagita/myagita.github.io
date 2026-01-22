@@ -4,15 +4,18 @@ layout: default
 
 ## 連絡先
 
-[Legalscapeのお問合せフォームからお願いいたします](https://www.legalscape.jp/corp/contact)
+Legalscape社へ：[Legalscapeのお問合せフォームからお願いいたします](https://www.legalscape.jp/corp/contact)
 
-個人宛のご連絡については: miki.yagita@ (Gmail)
+一橋大学へ： miki.yagita@r. (一橋大学のドメイン)
+
+個人宛のご連絡: miki.yagita@ (Gmailのドメイン)
 
 ## 職歴
 
 | 時期             | 職歴               |
 |:----------------|:------------------|
 | 2017(H29)-09〜 | **株式会社Legalscape 代表取締役社長・最高経営責任者** |
+| 2026(R08)-01〜 | 一橋大学大学院　法学研究科特任准教授（非常勤） |
 
 ## 論文、委員、その他
 
@@ -23,7 +26,7 @@ layout: default
 - 2023-09-22：九州大学 International Programs in Law の招待で訪日中のタイ王国の裁判官らに「Digitalising Court Documents in Japan」と題して講演
 - 2023-01-01：『情報ネットワークの法律実務』（第一法規）論考「民事判決のオープンデータ化へ向けた判決文のAIによる自動仮名化について」
 - 2022-02-17：[デジタル庁・デジタル臨時行政調査会作業部会 法制事務のデジタル化検討チームに構成員として参加](https://www.digital.go.jp/councils/administrative-research-wg-legal-practice-team)
-- 2017-07-28：[独立行政法人 情報処理推進機構 未踏アドバンスト事業 採択（テーマ：自然言語3処理と視覚表現を用いた革新的なリーガル業務支援サービス）](https://www.ipa.go.jp/jinzai/mitou/advanced/2017/gaiyou_m-1.html)
+- 2017-07-28：[独立行政法人 情報処理推進機構 未踏アドバンスト事業 採択（テーマ：自然言語処理と視覚表現を用いた革新的なリーガル業務支援サービス）](https://www.ipa.go.jp/jinzai/mitou/advanced/2017/gaiyou_m-1.html)
 - 2017-03-31：修士論文「Similarity Analysis on Legal Court Case Documents」
 
 ## 登壇・メディア

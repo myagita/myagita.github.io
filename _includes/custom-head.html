@@ -1,0 +1,17 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const links = document.querySelectorAll('.track-click');
+  
+  links.forEach(link => {
+    link.addEventListener('click', function(e) {
+      // GA4が正常に読み込まれているか確認してからイベントを送信
+      if (typeof gtag === 'function') {
+        gtag('event', 'link_click', {
+          'link_text': e.currentTarget.innerText,
+          'link_url': e.currentTarget.href
+        });
+      }
+    });
+  });
+});
+</script>

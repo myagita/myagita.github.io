@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: Miki Yagita
 ---
 
 ## 連絡先

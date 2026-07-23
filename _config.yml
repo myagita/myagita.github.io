@@ -1,5 +1,5 @@
 title: 八木田 樹 (Miki Yagita)
-author: "Miki Yagita"
+author: "八木田 樹 (Miki Yagita)"
 description: "Curriculum Vitae and Publications."
 
 baseurl: ""
@@ -11,3 +11,6 @@ plugins:
   - jekyll-feed
 
 google_analytics: G-P57F94KJJE
+
+sass:
+  style: compressed

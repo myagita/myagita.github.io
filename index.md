@@ -1,5 +1,6 @@
 ---
 layout: page
+title: 八木田 樹 (Miki Yagita)
 ---
 
 ## 連絡先

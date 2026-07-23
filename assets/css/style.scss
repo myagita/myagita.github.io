@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* --------------------------------------------------
+   1. ヘッダーおよびフッターの非表示設定
+   -------------------------------------------------- */
+.site-header,
+.post-header,
+.site-footer {
+  display: none !important;
+}
+
+/* --------------------------------------------------
+   2. フォントの変更設定
+   -------------------------------------------------- */
+body {
+  /* システムの高品質なゴシック体（Apple / Windows / Android標準）を指定 */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans JP", sans-serif !important;
+}
